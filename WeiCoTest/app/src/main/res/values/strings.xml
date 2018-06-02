@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeiCoTest</string>
+    <string name="hello">Hello World, ZSWB!</string>
+
+    <string name="ZSWB">掌上微博</string>
+
+    <string name="tvUid">账 号：</string>
+    <string name="tvPwd">密 码：</string>
+    <string name="btnLogin">登录</string>
+    <string name="btnReg">注册</string>
+</resources>

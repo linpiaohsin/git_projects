@@ -1,0 +1,1 @@
+include ':app', ':FileOpera', ':sql_2', ':sqlitetest3', ':theardtest', ':sync', ':qq_lite'

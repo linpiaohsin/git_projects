@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileOpera/FileOpera.iml" filepath="$PROJECT_DIR$/FileOpera/FileOpera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeiCoTest.iml" filepath="$PROJECT_DIR$/WeiCoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq_lite/qq_lite.iml" filepath="$PROJECT_DIR$/qq_lite/qq_lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql_2/sql_2.iml" filepath="$PROJECT_DIR$/sql_2/sql_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitetest3/sqlitetest3.iml" filepath="$PROJECT_DIR$/sqlitetest3/sqlitetest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sync/sync.iml" filepath="$PROJECT_DIR$/sync/sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theardtest/theardtest.iml" filepath="$PROJECT_DIR$/theardtest/theardtest.iml" />
+    </modules>
+  </component>
+</project>

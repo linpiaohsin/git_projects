@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center_horizontal"
+	android:background="@drawable/back"
+	>								<!-- 声明垂直分布的线性布局 -->
+	
+    <TextView 
+        android:id="@+id/TextView0" 
+        android:text="口袋微博"
+        style="@style/title"
+        android:paddingTop="20dip" 
+        android:paddingBottom="20dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center"
+        android:password="false"
+        >
+    </TextView>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:paddingTop="25px"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		>
+		<TextView 
+		    android:text="@string/tvUid"
+			android:layout_width="100dp"
+			style="@style/text"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+		/>
+		<EditText
+			android:id="@+id/etUid"
+			android:singleLine="true"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+		/>
+		</LinearLayout>
+		
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		>
+		<TextView 
+			android:text="@string/tvPwd"
+			style="@style/text"
+			android:layout_width="100dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+			/>
+		<EditText
+
+			android:id="@+id/etPwd"
+			android:singleLine="true"
+			android:password="true"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+
+			/>
+		</LinearLayout>
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:gravity="center">
+		<CheckBox
+			android:id="@+id/is_checked"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		<TextView
+			android:text="remeber me"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+	</LinearLayout>
+	<LinearLayout
+        android:paddingTop="20dip" 
+        android:paddingBottom="20dip"
+        android:paddingRight="20dip" 
+		android:orientation="horizontal"
+		android:gravity="center"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+
+		>			<!-- 声明于显示按钮的线性布局 -->
+		<Button
+			android:id="@+id/btnLogin"
+			style="@style/button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:minWidth="70dip"
+			android:text="@string/btnLogin" />
+		<Button
+			android:id="@+id/btnReg"
+			android:text="@string/btnReg"
+			style="@style/button"
+			android:minWidth="70dip"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+		</LinearLayout>
+		
+</LinearLayout>
+
+
+
+
