@@ -1,0 +1,79 @@
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\app\libs\jsoup-1.10.2.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\app\libs\umeng-analytics-v5.2.4.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\app\libs\umeng-update-v2.6.0.1.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\redpacketlibrary\libs\alipaySdk-20161129.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\redpacketlibrary\libs\volley-1.0.19.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\BaiduLBS_Android.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\HMSSdkBase_2.5.1.300.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\HMSSdkPush_2.5.1.300.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\hyphenatechat_3.3.6.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\MiPush_SDK_Client_2_2_19.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\libs\org.apache.http.legacy.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.1\5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a\parse-android-1.13.1.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\b9c998b29cb4a8388ef148e0501975ae\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.0.aar\0887e5e3b2303ebc1ae6d790109e3c32\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.0.aar\38fd3adc381025f876129fc157d26b81\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\redpacket-alipay-1.1.2.aar\06658073bf663526105da86145932bc1\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.0.aar\14b60f10df3bb2681d36508435d9ea9e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\9da0e83de01466097217485d2402c00e\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.0.aar\366bd06ebf65210170419d71cb962548\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.0.aar\15f6512e100f43dcbace9624db6917b0\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.0.aar\c5b1c05a34d20fceb2db7aef4de7d116\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.0.aar\a25d8a32acaa36d981f5aa6d10a93c86\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.0.aar\f6930ae01697411b123d16cef9992a5a\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.0.aar\030537654400fc0e7650683d5167edcd\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\aa5ab057eaee66fa70cca50f785cf2b0\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\536583c5d27750e25daa224a8630df77\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\e6b0d148fd6b71b76c05bebae977d349\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\0866bdae6ba17ca6a77310e6813ab947\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\d0a5a55ced6b45a4474cd501d30cf7a9\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a6029ef78e4257ef1245e3e1ba0b5971\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\dc2080a725f265470892669e985c342a\jars\classes.jar'(**.class)
+-injars 'C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\b31915413873a34862fa7c3db140193b\jars\classes.jar'(**.class)
+-injars 'F:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\redpacketlibrary\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\easeui\easeui\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'E:\Downloads\sdkbuild\examples\IM_lite\app\build\intermediates\classes\debug'(**.class)
+-outjars 'E:\Downloads\sdkbuild\examples\IM_lite\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'F:\sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\Downloads\sdkbuild\examples\IM_lite\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at E:\Downloads\sdkbuild\examples\IM_lite\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:47
+-keep class com.hyphenate.test_qq.DemoApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

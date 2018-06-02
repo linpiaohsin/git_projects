@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.hyphenate.test_qq.view.SlidingMenu
+    android:id="@+id/slide_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    //菜单布局的界面
+    <include layout="@layout/layout_slide_menu">
+    </include>
+    //主界面
+    <include layout="@layout/em_activity_main"></include>
+</com.hyphenate.test_qq.view.SlidingMenu>
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Mon Dec 18 16:03:31 CST 2017
+base.0=E\:\\Downloads\\sdkbuild\\examples\\IM_lite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Downloads\\sdkbuild\\examples\\IM_lite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\75\\classes2.dex
+base.1=E\:\\Downloads\\sdkbuild\\examples\\IM_lite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+file.0=E\:\\Downloads\\sdkbuild\\examples\\IM_lite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\75\\classes.dex
