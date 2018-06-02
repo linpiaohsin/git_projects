@@ -1,0 +1,2 @@
+主界面为index.html
+最佳浏览器为谷歌chrome浏览器
